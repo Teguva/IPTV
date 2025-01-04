@@ -24,13 +24,11 @@ def convert_svgs_to_pngs(input_folder='svg', output_folder='png', size=(512, 512
                 img = img.convert("RGBA")
                 img_width, img_height = img.size
 
-                # Calculate the scale factor based on the largest dimension
-                scale_factor = min(size[0] / img_width, size[1] / img_height)
-
-                # Apply an additional factor to reduce the size for near-1:1 aspect ratios
-                # This factor can be adjusted depending on how much smaller you want 1:1 images
-                if 0.2 <= img_width / img_height <= 5:
-                    scale_factor *= 1  # Reduce the size for near-1:1 images
+                # Calculate scale factor to fit the largest dimension to 512px
+                if img_width > img_height:
+                    scale_factor = size[0] / img_width
+                else:
+                    scale_factor = size[1] / img_height
 
                 # Resize the image while maintaining aspect ratio
                 new_width = int(img_width * scale_factor)
