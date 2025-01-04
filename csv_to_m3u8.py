@@ -39,7 +39,7 @@ def process_csv(input_file):
 def generate_m3u8(channels, output_file):
     with open(output_file, 'w', encoding='utf-8') as m3u8_file:
         # Write the M3U8 header
-        m3u8_file.write('#EXTM3U x-tvg-url="{epg_url}"\n')
+        m3u8_file.write(f'#EXTM3U x-tvg-url="{epg_url}"\n')
         
         # Write each channel to the M3U8 file in the required format
         for channel in channels:

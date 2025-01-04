@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="{epg_url}"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/epg.xml"
 #EXTINF:-1 tvg-id=etv tvg-name="ETV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/etv.png",ETV HD
 https://wowza1.leisertv.com/live/etvhd.stream/playlist.m3u8
 
