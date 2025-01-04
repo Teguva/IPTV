@@ -407,15 +407,15 @@ https://wowza1.leisertv.com/live/vividredhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=dorceltv tvg-name="Dorcel TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/dorceltv.png",Dorcel TV HD
 https://wowza2.leisertv.com/live/dorceltvhd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=1tv tvg-name="First Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/512px-Pirveli_Arkhi_Logo_2022.svg.png",First Channel HD
+#EXTINF:-1 tvg-id=1tv tvg-name="First Channel" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/1tv.png",First Channel HD
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 
-#EXTINF:-1 tvg-id=2tv tvg-name="First Channel Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/512px-Pirveli_Arkhi_Logo_2022.svg.png",First Channel Sport HD
+#EXTINF:-1 tvg-id=2tv tvg-name="First Channel Sport" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/2tv.png",First Channel Sport HD
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
-#EXTINF:-1 tvg-id=rustavi2 tvg-name="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png",Rustavi 2 HD
+#EXTINF:-1 tvg-id=rustavi2 tvg-name="Rustavi 2" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/rustavi2.png",Rustavi 2 HD
 https://sktv-forwarders.7m.pl/get.php?x=Rustavi2
 
-#EXTINF:-1 tvg-id=formula tvg-name="Formula" tvg-logo="https://formulanews.ge/images/logo.png",Formula HD
+#EXTINF:-1 tvg-id=formula tvg-name="Formula" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/formula.png",Formula HD
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 
