@@ -4,7 +4,7 @@ from io import StringIO
 
 # URL for the CSV file from Google Sheets
 csv_url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSMvWRL4XRip6SZT21jxkR_Ep0Rheo3kLSpx5AoFbaGFvPs65-pEgHUuxO91aGmUs03IYfLCc-pd4-Z/pub?output=csv'
-
+epg_url= 'https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/epg.xml'
 # Function to download the CSV file from the URL
 def download_csv(url):
     response = requests.get(url)
@@ -39,17 +39,16 @@ def process_csv(input_file):
 def generate_m3u8(channels, output_file):
     with open(output_file, 'w', encoding='utf-8') as m3u8_file:
         # Write the M3U8 header
-        m3u8_file.write('#EXTM3U\n')
+        m3u8_file.write('#EXTM3U x-tvg-url="{epg_url}"\n')
         
         # Write each channel to the M3U8 file in the required format
         for channel in channels:
             m3u8_file.write(f'#EXTINF:-1 tvg-id={channel["channel_id"]} tvg-name="{channel["channel_name"]}" tvg-logo="{channel["logo_url"]}",{channel["channel_name"]} {channel["quality"]}\n')
-            m3u8_file.write(f'#EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000\n')
             m3u8_file.write(f'{channel["hls_url"]}\n')
             m3u8_file.write('\n')
 
 # Example usage
-output_file = 'output.m3u8'  # Desired M3U8 file path
+output_file = 'playlist.m3u8'  # Desired M3U8 file path
 
 # Download and process the CSV data
 csv_data = download_csv(csv_url)
