@@ -23,11 +23,11 @@ https://wowza1.leisertv.com/live/etv2hd.stream/playlist.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/etvplusshd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=kanal11 tvg-name="Kanal 11" tvg-logo="https://github.com/Teguva/logos/blob/main/kanal11.png?raw=true",Kanal 11 HD
+#EXTINF:-1 tvg-id=duo4 tvg-name="Duo 4" tvg-logo="https://github.com/Teguva/logos/blob/main/kanal11.png?raw=true",Duo 4 HD
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/kanal11hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=kanal12 tvg-name="Kanal 12" tvg-logo="https://github.com/Teguva/logos/blob/main/kanal12.png?raw=true",Kanal 12 HD
+#EXTINF:-1 tvg-id=duo5 tvg-name="Duo 5" tvg-logo="https://github.com/Teguva/logos/blob/main/kanal12.png?raw=true",Duo 5 HD
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/kanal12hd.stream/playlist.m3u8
 
@@ -39,11 +39,11 @@ https://wowza1.leisertv.com/live/eestikanal.stream/playlist.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/tv3life.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=fox tvg-name="FOX" tvg-logo="https://github.com/Teguva/logos/blob/main/fox.png?raw=true",FOX 
+#EXTINF:-1 tvg-id=fx tvg-name="FX" tvg-logo="https://github.com/Teguva/logos/blob/main/fox.png?raw=true",FX 
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza2.leisertv.com/live/fox.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=foxlife tvg-name="FOX Life" tvg-logo="https://github.com/Teguva/logos/blob/main/foxlife.png?raw=true",FOX Life 
+#EXTINF:-1 tvg-id=fxlife tvg-name="FX Life" tvg-logo="https://github.com/Teguva/logos/blob/main/foxlife.png?raw=true",FX Life 
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza2.leisertv.com/live/foxlife.stream/playlist.m3u8
 
@@ -55,15 +55,15 @@ https://wowza2.leisertv.com/live/lifetv.stream/playlist.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/alotv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=sony tvg-name="Sony Channel" tvg-logo="https://github.com/Teguva/logos/blob/main/sony.png?raw=true",Sony Channel HD
+#EXTINF:-1 tvg-id=duo3 tvg-name="Duo 3" tvg-logo="https://github.com/Teguva/logos/blob/main/sony.png?raw=true",Duo 3 HD
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/sonyhd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=sonyturbo tvg-name="Sony Turbo" tvg-logo="https://github.com/Teguva/logos/blob/main/sonyturbo.png?raw=true",Sony Turbo HD
+#EXTINF:-1 tvg-id=duo6 tvg-name="Duo 6" tvg-logo="https://github.com/Teguva/logos/blob/main/sonyturbo.png?raw=true",Duo 6 HD
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/sonyturbohd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=skymovieswitness tvg-name="Sky Movies Witness" tvg-logo="https://github.com/Teguva/logos/blob/main/skymovieswitness.png?raw=true",Sky Movies Witness HD
+#EXTINF:-1 tvg-id=skywitness tvg-name="Sky Witness" tvg-logo="https://github.com/Teguva/logos/blob/main/skymovieswitness.png?raw=true",Sky Witness HD
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza5.leisertv.com/live/skymovieswitnesshd.stream/playlist.m3u8
 
@@ -71,7 +71,7 @@ https://wowza5.leisertv.com/live/skymovieswitnesshd.stream/playlist.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/viasatnature.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=history tvg-name="History Channel" tvg-logo="https://github.com/Teguva/logos/blob/main/history.png?raw=true",History Channel HD
+#EXTINF:-1 tvg-id=history tvg-name="Sky History" tvg-logo="https://github.com/Teguva/logos/blob/main/history.png?raw=true",Sky History HD
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/historyhd.stream/playlist.m3u8
 
@@ -87,7 +87,7 @@ https://wowza1.leisertv.com/live/investigation.stream/playlist.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza5.leisertv.com/live/bbcearthhd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=crimeplusinv tvg-name="Crime+Investigation" tvg-logo="https://github.com/Teguva/logos/blob/main/crimeplusinv.png?raw=true",Crime+Investigation HD
+#EXTINF:-1 tvg-id=crimeplusinv tvg-name="Crime + Investigation" tvg-logo="https://github.com/Teguva/logos/blob/main/crimeplusinv.png?raw=true",Crime + Investigation HD
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza5.leisertv.com/live/crimeplusinvhd.stream/playlist.m3u8
 
@@ -103,7 +103,7 @@ https://wowza2.leisertv.com/live/animalhd.stream/playlist.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/nationalgeo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=natgeo tvg-name="National Geographic HD" tvg-logo="https://github.com/Teguva/logos/blob/main/natgeo.png?raw=true",National Geographic HD HD
+#EXTINF:-1 tvg-id=natgeo tvg-name="National Geographic" tvg-logo="https://github.com/Teguva/logos/blob/main/natgeo.png?raw=true",National Geographic HD
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/natgeohd.stream/playlist.m3u8
 
@@ -115,7 +115,7 @@ https://wowza2.leisertv.com/live/viahistory.stream/playlist.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/viaexplorehd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=history2 tvg-name="History 2" tvg-logo="https://github.com/Teguva/logos/blob/main/history2.png?raw=true",History 2 HD
+#EXTINF:-1 tvg-id=history2 tvg-name="Sky History 2" tvg-logo="https://github.com/Teguva/logos/blob/main/history2.png?raw=true",Sky History 2 HD
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza5.leisertv.com/live/history2hd.stream/playlist.m3u8
 
@@ -123,7 +123,7 @@ https://wowza5.leisertv.com/live/history2hd.stream/playlist.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/smartzone.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=davincilearning tvg-name="Da Vinci Learning" tvg-logo="https://github.com/Teguva/logos/blob/main/davincilearning.png?raw=true",Da Vinci Learning 
+#EXTINF:-1 tvg-id=davinci tvg-name="Da Vinci" tvg-logo="https://github.com/Teguva/logos/blob/main/davincilearning.png?raw=true",Da Vinci 
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,BANDWIDTH=5000000
 https://wowza1.leisertv.com/live/davincilearning.stream/playlist.m3u8
 

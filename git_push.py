@@ -1,3 +1,4 @@
+# This script will update the git repo online.
 import subprocess
 
 def run_git_push():
