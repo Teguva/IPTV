@@ -19,18 +19,20 @@ def convert_svgs_to_pngs(input_folder='svg', output_folder='png', size=(512, 512
             with open(svg_path, "rb") as svg_file:
                 cairosvg.svg2png(file_obj=svg_file, write_to=png_path)
 
-            # Adjust PNG to fit content based on width only
+            # Adjust PNG to fit content while maintaining aspect ratio
             with Image.open(png_path) as img:
                 img = img.convert("RGBA")
                 img_width, img_height = img.size
 
-                # Calculate scale factor based on width only
-                scale_factor = size[0] / img_width
+                # Calculate scale factor to fit the largest dimension to 512px
+                if img_width > img_height:
+                    scale_factor = size[0] / img_width
+                else:
+                    scale_factor = size[1] / img_height
 
                 # Resize the image while maintaining aspect ratio
-                new_width = size[0]  # Fixed width of 512px
+                new_width = int(img_width * scale_factor)
                 new_height = int(img_height * scale_factor)
-
                 img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
 
                 # Create a new image with a transparent background
