@@ -17,10 +17,10 @@ https://wowza1.leisertv.com/live/etv2hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=etvpluss tvg-name="ETV +" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/etvpluss.png",ETV + HD
 https://wowza1.leisertv.com/live/etvplusshd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=duo4 tvg-name="Duo 4" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/kanal11.png",Duo 4 HD
+#EXTINF:-1 tvg-id=duo4 tvg-name="Duo 4" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/duo4.png",Duo 4 HD
 https://wowza1.leisertv.com/live/kanal11hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=duo5 tvg-name="Duo 5" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/kanal12.png",Duo 5 HD
+#EXTINF:-1 tvg-id=duo5 tvg-name="Duo 5" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/duo5.png",Duo 5 HD
 https://wowza1.leisertv.com/live/kanal12hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id=eestikanal tvg-name="Eesti Kanal" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/eestikanal.png",Eesti Kanal 
@@ -29,10 +29,10 @@ https://wowza1.leisertv.com/live/eestikanal.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=tv3life tvg-name="TV3 Life" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tv3life.png",TV3 Life 
 https://wowza1.leisertv.com/live/tv3life.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=fx tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/fox.png",FX 
+#EXTINF:-1 tvg-id=fx tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/fx.png",FX 
 https://wowza2.leisertv.com/live/fox.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=fxlife tvg-name="FX Life" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/foxlife.png",FX Life 
+#EXTINF:-1 tvg-id=fxlife tvg-name="FX Life" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/fxlife.png",FX Life 
 https://wowza2.leisertv.com/live/foxlife.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id=lifetv tvg-name="Life TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/lifetv.png",Life TV 
@@ -41,13 +41,13 @@ https://wowza2.leisertv.com/live/lifetv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=alotv tvg-name="Alo TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/alotv.png",Alo TV 
 https://wowza1.leisertv.com/live/alotv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=duo3 tvg-name="Duo 3" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/sony.png",Duo 3 HD
+#EXTINF:-1 tvg-id=duo3 tvg-name="Duo 3" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/duo3.png",Duo 3 HD
 https://wowza1.leisertv.com/live/sonyhd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=duo6 tvg-name="Duo 6" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/sonyturbo.png",Duo 6 HD
+#EXTINF:-1 tvg-id=duo6 tvg-name="Duo 6" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/duo6.png",Duo 6 HD
 https://wowza1.leisertv.com/live/sonyturbohd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=skywitness tvg-name="Sky Witness" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skymovieswitness.png",Sky Witness HD
+#EXTINF:-1 tvg-id=skywitness tvg-name="Sky Witness" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skywitness.png",Sky Witness HD
 https://wowza5.leisertv.com/live/skymovieswitnesshd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id=viasatnature tvg-name="Viasat Nature" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/viasatnature.png",Viasat Nature 
@@ -92,7 +92,7 @@ https://wowza5.leisertv.com/live/history2hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=smartzone tvg-name="Smart Zone" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/smartzone.png",Smart Zone 
 https://wowza1.leisertv.com/live/smartzone.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id=davinci tvg-name="Da Vinci" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/davincilearning.png",Da Vinci 
+#EXTINF:-1 tvg-id=davinci tvg-name="Da Vinci" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/davinci.png",Da Vinci 
 https://wowza1.leisertv.com/live/davincilearning.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id=pingviiniukas tvg-name="Pingviiniukas" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/pingviiniukas.png",Pingviiniukas 
