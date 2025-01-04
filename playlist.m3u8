@@ -1,0 +1,421 @@
+#EXTM3U x-tvg-url="{epg_url}"
+#EXTINF:-1 tvg-id=etv tvg-name="ETV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/etv.png",ETV HD
+https://wowza1.leisertv.com/live/etvhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=kanal2 tvg-name="Kanal 2" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/kanal2.png",Kanal 2 HD
+https://wowza1.leisertv.com/live/kanal2hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tv3 tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tv3.png",TV3 HD
+https://wowza1.leisertv.com/live/tv3hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tv6 tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tv6.png",TV6 HD
+https://wowza1.leisertv.com/live/tv6hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=etv2 tvg-name="ETV 2" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/etv2.png",ETV 2 HD
+https://wowza1.leisertv.com/live/etv2hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=etvpluss tvg-name="ETV +" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/etvpluss.png",ETV + HD
+https://wowza1.leisertv.com/live/etvplusshd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=duo4 tvg-name="Duo 4" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/kanal11.png",Duo 4 HD
+https://wowza1.leisertv.com/live/kanal11hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=duo5 tvg-name="Duo 5" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/kanal12.png",Duo 5 HD
+https://wowza1.leisertv.com/live/kanal12hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=eestikanal tvg-name="Eesti Kanal" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/eestikanal.png",Eesti Kanal 
+https://wowza1.leisertv.com/live/eestikanal.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tv3life tvg-name="TV3 Life" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tv3life.png",TV3 Life 
+https://wowza1.leisertv.com/live/tv3life.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=fx tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/fox.png",FX 
+https://wowza2.leisertv.com/live/fox.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=fxlife tvg-name="FX Life" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/foxlife.png",FX Life 
+https://wowza2.leisertv.com/live/foxlife.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=lifetv tvg-name="Life TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/lifetv.png",Life TV 
+https://wowza2.leisertv.com/live/lifetv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=alotv tvg-name="Alo TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/alotv.png",Alo TV 
+https://wowza1.leisertv.com/live/alotv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=duo3 tvg-name="Duo 3" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/sony.png",Duo 3 HD
+https://wowza1.leisertv.com/live/sonyhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=duo6 tvg-name="Duo 6" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/sonyturbo.png",Duo 6 HD
+https://wowza1.leisertv.com/live/sonyturbohd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skywitness tvg-name="Sky Witness" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skymovieswitness.png",Sky Witness HD
+https://wowza5.leisertv.com/live/skymovieswitnesshd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=viasatnature tvg-name="Viasat Nature" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/viasatnature.png",Viasat Nature 
+https://wowza1.leisertv.com/live/viasatnature.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=history tvg-name="Sky History" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/history.png",Sky History HD
+https://wowza1.leisertv.com/live/historyhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=discovery tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/discovery.png",Discovery Channel 
+https://wowza2.leisertv.com/live/discovery.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=investigation tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/investigation.png",Investigation Discovery 
+https://wowza1.leisertv.com/live/investigation.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=bbcearth tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/bbcearth.png",BBC Earth HD
+https://wowza5.leisertv.com/live/bbcearthhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=crimeplusinv tvg-name="Crime + Investigation" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/crimeplusinv.png",Crime + Investigation HD
+https://wowza5.leisertv.com/live/crimeplusinvhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tlc tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tlc.png",TLC 
+https://wowza2.leisertv.com/live/tlc.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=animal tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/animal.png",Animal Planet HD
+https://wowza2.leisertv.com/live/animalhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=nationalgeo tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/nationalgeo.png",National Geographic 
+https://wowza1.leisertv.com/live/nationalgeo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=natgeo tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/natgeo.png",National Geographic HD
+https://wowza1.leisertv.com/live/natgeohd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=viahistory tvg-name="Viasat History" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/viahistory.png",Viasat History 
+https://wowza2.leisertv.com/live/viahistory.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=viaexplore tvg-name="Viasat Explore" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/viaexplore.png",Viasat Explore HD
+https://wowza1.leisertv.com/live/viaexplorehd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=history2 tvg-name="Sky History 2" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/history2.png",Sky History 2 HD
+https://wowza5.leisertv.com/live/history2hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=smartzone tvg-name="Smart Zone" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/smartzone.png",Smart Zone 
+https://wowza1.leisertv.com/live/smartzone.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=davinci tvg-name="Da Vinci" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/davincilearning.png",Da Vinci 
+https://wowza1.leisertv.com/live/davincilearning.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=pingviiniukas tvg-name="Pingviiniukas" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/pingviiniukas.png",Pingviiniukas 
+https://wowza2.leisertv.com/live/pingviiniukas.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=ducktv tvg-name="Duck TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/ducktv.png",Duck TV HD
+https://wowza1.leisertv.com/live/ducktvhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=babytv tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/babytv.png",Baby TV 
+https://wowza5.leisertv.com/live/babytv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=kika tvg-name="Kika TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/kika.png",Kika TV 
+https://wowza5.leisertv.com/live/kika.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skyshowcase tvg-name="Sky Showcase" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skyshowcase.png",Sky Showcase HD
+https://wowza1.leisertv.com/live/skyshowcasehd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=premiersport1 tvg-name="Premier Sport 1" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/premiersport1.png",Premier Sport 1 HD
+https://wowza1.leisertv.com/live/premiersport1hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=premiersport2 tvg-name="Premier Sport 2" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/premiersport2.png",Premier Sport 2 HD
+https://wowza1.leisertv.com/live/premiersport2hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skysportscricket tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skysportscricket.png",Sky Sports Cricket HD
+https://wowza1.leisertv.com/live/skysportscrickethd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=cbbc tvg-name="CBBC" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/cbbc.png",CBBC HD
+https://wowza1.leisertv.com/live/cbbchd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=cnn tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/cnn.png",CNN 
+https://wowza2.leisertv.com/live/cnn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=cnbceurope tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/cnbceurope.png",CNBC Europe HD
+https://wowza5.leisertv.com/live/cnbceuropehd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=euronews tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/euronews.png",Euronews HD
+https://wowza5.leisertv.com/live/euronewshd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=bloombergtv tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/bloombergtv.png",Bloomberg TV 
+https://wowza2.leisertv.com/live/bloombergtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=bbc tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/bbc.png",BBC World News 
+https://wowza1.leisertv.com/live/bbc.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=kidszone tvg-name="Kids Zone" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/kidszone.png",Kids Zone 
+https://wowza2.leisertv.com/live/kidszone.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=kidzonemini tvg-name="Kids Zone Mini" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/kidzonemini.png",Kids Zone Mini HD
+https://wowza1.leisertv.com/live/kidzoneminihd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=nickelodeon tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/nickelodeon.png",Nickelodeon 
+https://wowza2.leisertv.com/live/nickelodeon.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=cartoon tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/cartoon.png",Cartoon Network 
+https://wowza2.leisertv.com/live/cartoon.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=cbeebies tvg-name="CBeebies" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/cbeebies.png",CBeebies HD
+https://wowza5.leisertv.com/live/cbeebieshd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=disneychannel tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/disneychannel.png",Disney Channel 
+https://wowza1.leisertv.com/live/disneychannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=disneyjunior tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/disneyjunior.png",Disney Junior 
+https://wowza1.leisertv.com/live/disneyjunior.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skykidsf tvg-name="Sky Kids" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skykidsf.png",Sky Kids HD
+https://wowza5.leisertv.com/live/skykidsfhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=nickjrf tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/nickjrf.png",Nick Jr. HD
+https://wowza5.leisertv.com/live/nickjrfhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=boomerangf tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/boomerangf.png",Boomerang HD
+https://wowza1.leisertv.com/live/boomerangfhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=filmzone tvg-name="Film Zone" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/filmzone.png",Film Zone 
+https://wowza2.leisertv.com/live/filmzone.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=filmzoneplus tvg-name="Film Zone Plus" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/filmzoneplus.png",Film Zone Plus 
+https://wowza2.leisertv.com/live/filmzoneplus.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tv1000 tvg-name="TV1000" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tv1000.png",TV1000 
+https://wowza2.leisertv.com/live/tv1000.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tv1000action tvg-name="TV1000 Action" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tv1000action.png",TV1000 Action 
+https://wowza2.leisertv.com/live/tv1000action.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tv1000premium tvg-name="TV1000 Premium" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tv1000premium.png",TV1000 Premium HD
+https://wowza5.leisertv.com/live/tv1000premiumhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tv1000russiakino tvg-name="TV1000 Russian Kino" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tv1000russiakino.png",TV1000 Russian Kino 
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=amc tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/amc.png",AMC 
+https://wowza2.leisertv.com/live/amc.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=syfy tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/syfy.png",Syfy HD
+https://wowza1.leisertv.com/live/syfyhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skyhistoryf tvg-name="Sky History" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skyhistoryf.png",Sky History HD
+https://wowza1.leisertv.com/live/skyhistoryfhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skyhistoryh2f tvg-name="Sky History 2" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skyhistoryh2f.png",Sky History 2 HD
+https://wowza1.leisertv.com/live/skyhistoryh2fhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skydocumentariesf tvg-name="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skydocumentariesf.png",Sky Documentaries HD
+https://wowza1.leisertv.com/live/skydocumentariesfhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skycinemagreatsf tvg-name="Sky Cinema Greats" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skycinemagreatsf.png",Sky Cinema Greats HD
+https://wowza5.leisertv.com/live/skycinemagreatsfhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skycinemaanimation tvg-name="Sky Cinema Animation" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skycinemaanimation.png",Sky Cinema Animation HD
+https://wowza5.leisertv.com/live/skycinemaanimationhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skymoviessuperhero tvg-name="Sky Movies Superhero" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skymoviessuperhero.png",Sky Movies Superhero HD
+https://wowza1.leisertv.com/live/skymoviessuperherohd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skymoviesdrama tvg-name="Sky Movies Drama" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skymoviesdrama.png",Sky Movies Drama HD
+https://wowza5.leisertv.com/live/skymoviesdramahd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=epicdrama tvg-name="Epic Drama" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/epicdrama.png",Epic Drama HD
+https://wowza1.leisertv.com/live/epicdramahd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skymovieshits tvg-name="Sky Movies Hits" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skymovieshits.png",Sky Movies Hits HD
+https://wowza5.leisertv.com/live/skymovieshitshd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skymoviespremiere tvg-name="Sky Movies Premiere" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skymoviespremiere.png",Sky Movies Premiere HD
+https://wowza5.leisertv.com/live/skymoviespremierehd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skymoviesscifi tvg-name="Sky Movies Sci-Fi" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skymoviesscifi.png",Sky Movies Sci-Fi HD
+https://wowza5.leisertv.com/live/skymoviesscifihd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skymoviesthriller tvg-name="Sky Movies Thriller" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skymoviesthriller.png",Sky Movies Thriller HD
+https://wowza5.leisertv.com/live/skymoviesthrillerhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skymoviesactiond tvg-name="Sky Movies Action" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skymoviesactiond.png",Sky Movies Action HD
+https://wowza5.leisertv.com/live/skymoviesactiondhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=paramountnetwork tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/paramountnetwork.png",Paramount Network HD
+https://wowza5.leisertv.com/live/paramountnetworkhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=viasatsportbaltic tvg-name="Viasat Sport Baltic" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/viasatsportbaltic.png",Viasat Sport Baltic 
+https://wowza1.leisertv.com/live/viasatsportbaltic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tvplaysportsplus tvg-name="TV Play Sports Plus" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tvplaysportsplus.png",TV Play Sports Plus HD
+https://wowza1.leisertv.com/live/tvplaysportsplushd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=eurosport1 tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/eurosport1.png",Eurosport 1 HD
+https://wowza1.leisertv.com/live/eurosport1hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=eurosport2 tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/eurosport2.png",Eurosport 2 
+https://wowza2.leisertv.com/live/eurosport2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=fightsports tvg-name="Fight Sports" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/fightsports.png",Fight Sports 
+https://wowza1.leisertv.com/live/fightsports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skysportsmix tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skysportsmix.png",Sky Sports Mix HD
+https://wowza5.leisertv.com/live/skysportsmixhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skyportspremierleague tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skyportspremierleague.png",Sky Sports Premier League HD
+https://wowza5.leisertv.com/live/skyportspremierleaguehd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skysportsgolf tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skysportsgolf.png",Sky Sports Golf HD
+https://wowza2.leisertv.com/live/skysportsgolfhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skysportsf1 tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skysportsf1.png",Sky Sports F1 HD
+https://wowza5.leisertv.com/live/skysportsf1hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skysportsfootball tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skysportsfootball.png",Sky Sports Football HD
+https://wowza1.leisertv.com/live/skysportsfootballhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skysportsarena tvg-name="Sky Sports Arena" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skysportsarena.png",Sky Sports Arena HD
+https://wowza1.leisertv.com/live/skysportsarenahd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=btsports1 tvg-name="BT Sport 1" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/btsports1.png",BT Sport 1 HD
+https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=btsports2 tvg-name="BT Sport 2" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/btsports2.png",BT Sport 2 HD
+https://wowza5.leisertv.com/live/btsports2hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=btsports3 tvg-name="BT Sport 3" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/btsports3.png",BT Sport 3 HD
+https://wowza5.leisertv.com/live/btsports3hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=btsportsespn tvg-name="BT Sport ESPN" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/btsportsespn.png",BT Sport ESPN HD
+https://wowza1.leisertv.com/live/btsportsespnhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tvn tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tvn.png",TVN 
+https://wowza1.leisertv.com/live/tvn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=channel4 tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/channel4.png",Channel 4 HD
+https://wowza5.leisertv.com/live/channel4hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=iconcert tvg-name="iConcert" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/iconcert.png",iConcert 
+https://wowza2.leisertv.com/live/iconcert.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=mtvrocks tvg-name="MTV Rocks" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/mtvrocks.png",MTV Rocks 
+https://wowza1.leisertv.com/live/mtvrocks.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=mtveurope tvg-name="MTV Europe" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/mtveurope.png",MTV Europe 
+https://wowza1.leisertv.com/live/mtveurope.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=clubmtv tvg-name="Club MTV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/clubmtv.png",Club MTV 
+https://wowza5.leisertv.com/live/clubmtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=myhits tvg-name="My Hits" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/myhits.png",My Hits HD
+https://wowza1.leisertv.com/live/myhitshd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=traceurban tvg-name="Trace Urban" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/traceurban.png",Trace Urban HD
+https://wowza2.leisertv.com/live/traceurbanhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=vh1 tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/vh1.png",VH1 
+https://wowza1.leisertv.com/live/vh1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=mezzo tvg-name="Mezzo TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/mezzo.png",Mezzo TV 
+https://wowza2.leisertv.com/live/mezzo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=rtl2 tvg-name="RTL 2" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/rtl2.png",RTL 2 
+https://wowza2.leisertv.com/live/rtl2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=pro7 tvg-name="ProSieben" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/pro7.png",ProSieben 
+https://wowza2.leisertv.com/live/pro7.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=sat1 tvg-name="Sat.1" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/sat1.png",Sat.1 
+https://wowza2.leisertv.com/live/sat1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=yletv1 tvg-name="Yle TV1" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/yletv1.png",Yle TV1 
+https://wowza1.leisertv.com/live/yletv1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=yletv2 tvg-name="Yle TV2" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/yletv2.png",Yle TV2 
+https://wowza1.leisertv.com/live/yletv2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=film4 tvg-name="Film4" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/film4.png",Film4 HD
+https://wowza5.leisertv.com/live/film4hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=bbcone tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/bbcone.png",BBC One HD
+https://wowza5.leisertv.com/live/bbconehd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=bbctwo tvg-name="BBC Two" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/bbctwo.png",BBC Two HD
+https://wowza5.leisertv.com/live/bbctwohd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=dave tvg-name="Dave" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/dave.png",Dave HD
+https://wowza5.leisertv.com/live/davehd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=gold tvg-name="Gold" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/gold.png",Gold HD
+https://wowza5.leisertv.com/live/goldhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=comedycentral tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/comedycentral.png",Comedy Central HD
+https://wowza5.leisertv.com/live/comedycentralhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=skycomedy tvg-name="Sky Comedy" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/skycomedy.png",Sky Comedy HD
+https://wowza5.leisertv.com/live/skycomedyhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tv3plus tvg-name="TV3 Plus" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tv3plus.png",TV3 Plus HD
+https://wowza1.leisertv.com/live/tv3plushd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=vipcomedy tvg-name="VIP Comedy" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/vipcomedy.png",VIP Comedy HD
+https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=duo7 tvg-name="Duo 7" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/duo7.png",Duo 7 HD
+https://wowza1.leisertv.com/live/duo7hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=1plus2 tvg-name="1+2" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/1plus2.png",1+2 
+https://wowza1.leisertv.com/live/1plus2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=kanalju tvg-name="Kanal Ju" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/kanalju.png",Kanal Ju 
+https://wowza1.leisertv.com/live/kanalju.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=24kanal tvg-name="24 Kanal" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/24kanal.png",24 Kanal 
+https://wowza1.leisertv.com/live/24kanal.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tbnbaltija tvg-name="TBN Baltija" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tbnbaltija.png",TBN Baltija HD
+https://wowza2.leisertv.com/live/tbnbaltijahd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tvxxi tvg-name="TV XXI" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tvxxi.png",TV XXI 
+https://wowza1.leisertv.com/live/tvxxi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tbn tvg-name="TBN" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tbn.png",TBN 
+https://wowza5.leisertv.com/live/tbn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=tnt tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/tnt.png",TNT 
+https://wowza1.leisertv.com/live/tnt.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=retrotv tvg-name="Retro TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/retrotv.png",Retro TV 
+https://wowza1.leisertv.com/live/retrotv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=okhotairybalka tvg-name="Okhota i Rybalka" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/okhotairybalka.png",Okhota i Rybalka 
+https://wowza2.leisertv.com/live/okhotairybalka.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=ktoyestkto tvg-name="Kto Est Kto" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/ktoyestkto.png",Kto Est Kto 
+https://wowza1.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=shansontv tvg-name="Shanson TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/shansontv.png",Shanson TV 
+https://wowza1.leisertv.com/live/shansontv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=orsenttv tvg-name="Orsent TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/orsenttv.png",Orsent TV 
+https://wowza1.leisertv.com/live/orsenttv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=voprosyiotvety tvg-name="Voprosy i Otvety" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/voprosyiotvety.png",Voprosy i Otvety 
+https://wowza1.leisertv.com/live/voprosyiotvety.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=privatetv tvg-name="Private TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/privatetv.png",Private TV 
+https://wowza2.leisertv.com/live/privatetv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=brazzerstv tvg-name="Brazzers TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/brazzerstv.png",Brazzers TV 
+https://wowza2.leisertv.com/live/brazzerstv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=hustlertv tvg-name="Hustler TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/hustlertv.png",Hustler TV 
+https://wowza2.leisertv.com/live/hustlertv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=vividred tvg-name="Vivid Red" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/vividred.png",Vivid Red HD
+https://wowza1.leisertv.com/live/vividredhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=dorceltv tvg-name="Dorcel TV" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/dorceltv.png",Dorcel TV HD
+https://wowza2.leisertv.com/live/dorceltvhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=1tv tvg-name="First Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/512px-Pirveli_Arkhi_Logo_2022.svg.png",First Channel HD
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+#EXTINF:-1 tvg-id=2tv tvg-name="First Channel Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/512px-Pirveli_Arkhi_Logo_2022.svg.png",First Channel Sport HD
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1 tvg-id=rustavi2 tvg-name="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png",Rustavi 2 HD
+https://sktv-forwarders.7m.pl/get.php?x=Rustavi2
+
+#EXTINF:-1 tvg-id=formula tvg-name="Formula" tvg-logo="https://formulanews.ge/images/logo.png",Formula HD
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+
