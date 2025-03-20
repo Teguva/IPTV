@@ -408,7 +408,7 @@ https://wowza1.leisertv.com/live/vividredhd.stream/playlist.m3u8
 https://wowza2.leisertv.com/live/dorceltvhd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id=1tv tvg-name="First Channel" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/1tv.png",First Channel HD
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+https://r2.t.stream-dns.net/hls/tvpirveli-fhd_1/_a599f81545944835196260927bb93ce1_67def796x0014/index.m3u8
 
 #EXTINF:-1 tvg-id=2tv tvg-name="First Channel Sport" tvg-logo="https://raw.githubusercontent.com/Teguva/IPTV/refs/heads/main/logos/png/2tv.png",First Channel Sport HD
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
